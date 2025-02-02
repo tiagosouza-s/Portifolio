@@ -107,6 +107,9 @@ section{
 }
 
 /* Estilos padrÃ£o para os card */
+h2{
+    text-align: center;
+}
 .card{
     display: flex;
     justify-content:flex-start;
